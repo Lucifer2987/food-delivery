@@ -14,7 +14,6 @@
   </p>
 
 
-![Picture](https://raw.githubusercontent.com/fr0st-iwnl/assets/main/thumbnails/tomato.png)
 
 
 # Getting Started
